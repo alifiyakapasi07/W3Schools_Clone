@@ -5,11 +5,14 @@
 [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://github.com/alifiyakapasi07/W3Schools_Clone)
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/alifiyakapasi07/)
 
+# TRY TO SEE IN 80% SCREEN FOR BETTER RESULT...
+
+
 ## Website Preview
-## Main Page
+### Main Page
 <img src="1.png" width="900">
 
-## Features
+### Add-ons
 <img src="2.png" width="900">
 <br>
 <img src="3.png" width="900">
